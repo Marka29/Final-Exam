@@ -1,0 +1,49 @@
+body {
+    background-color: LightSalmon;
+}
+
+#heading {
+    padding: 5px;
+    color: yellow;
+    opacity: 1;
+    font-size: 50pt;
+    font-family: "Times New Roman",Times, serif;
+}
+
+p {
+    padding: 1px;
+}
+
+h2 {
+    font-size: 20pt;
+    text-align: left;
+    color: DarkOliveGreen;
+    font-family: "Times New Roman",Times, serif;
+}
+
+.center { 
+    text-align: left;
+    list-style-type: square;
+}
+
+a {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+a:hover {
+    color: DodgerBlue;
+}
+
+.table2, .th2, .td2{
+    height: 30px;
+    width: 40%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+input:hover {
+    color: DodgerBlue;
+    background-color: LightSalmon;
+}
